@@ -1,6 +1,9 @@
 # Dashboard Inteligente de Vendas
 
 Dashboard interativo desenvolvido em Python para acompanhar indicadores comerciais, analisar o desempenho de produtos e visualizar o faturamento de uma empresa fictícia.
+## Prévia do projeto
+
+![Prévia do Dashboard Inteligente de Vendas](dashboard-preview.png)
 
 ## Objetivo
 
