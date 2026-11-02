@@ -1,0 +1,13 @@
+data,produto,categoria,regiao,quantidade,preco_unitario
+2026-01-05,Notebook,Eletrônicos,Sudeste,2,3500
+2026-01-12,Mouse,Periféricos,Sul,5,80
+2026-02-03,Teclado,Periféricos,Sudeste,3,150
+2026-02-15,Monitor,Eletrônicos,Nordeste,2,1200
+2026-03-08,Notebook,Eletrônicos,Sul,1,3500
+2026-03-20,Mouse,Periféricos,Nordeste,8,80
+2026-04-02,Monitor,Eletrônicos,Sudeste,4,1200
+2026-04-18,Teclado,Periféricos,Centro-Oeste,6,150
+2026-05-09,Notebook,Eletrônicos,Nordeste,2,3500
+2026-05-21,Mouse,Periféricos,Sudeste,10,80
+2026-06-11,Monitor,Eletrônicos,Sul,3,1200
+2026-06-25,Teclado,Periféricos,Nordeste,4,150
